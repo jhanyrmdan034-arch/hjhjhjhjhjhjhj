@@ -1,0 +1,8 @@
+VPN Man Public Package v1.0.2
+
+برای نصب از فایل «آموزش-نصب-صفر-تا-صد.txt» شروع کنید.
+
+01-vpn-panel-php = Backend / Admin Panel
+02-vpn-man-android = Android Source + GitHub Actions
+
+این بسته عمداً فاقد هرگونه URL یا کلید خصوصی پروژه اصلی است.

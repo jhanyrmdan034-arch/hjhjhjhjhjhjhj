@@ -1,0 +1,1 @@
+</main></div><script>document.getElementById('menuBtn')?.addEventListener('click',()=>document.querySelector('aside').classList.toggle('open'));</script></body></html>
